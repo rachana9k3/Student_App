@@ -1,4 +1,5 @@
-failed Marks
-Student1 : 5
-Student2 : 4
-Student3 : 1
+passed Marks
+Student1 : 45
+Student2 : 48
+Student3 : 86
+
